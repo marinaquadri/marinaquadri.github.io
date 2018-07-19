@@ -1,0 +1,70 @@
+html{
+    
+    background-image: url(bricks.jpg);
+}
+
+body {
+    margin-left: 94px;
+    margin-right: 94px;
+    font-weight: bold;
+    text-align:center;
+
+}
+
+.image1{
+    margin-top: 37px;
+    box-shadow:9px 9px 9px rgba(0,0,0,.3);
+}
+
+.image2{
+    margin-top: 20px;
+}
+
+nav {
+    text-shadow: 2px 1px gray;
+    margin-top: 15px;
+}
+
+a {
+    font-family:'Gaegu', cursive;
+    font-size:23pt;
+    color:ghostwhite;
+    letter-spacing: 5px;
+    text-decoration:none;
+    text-align: center;
+    margin-left: auto;
+    margin-right: auto;
+    
+}
+    
+a:hover {
+    color:#4C4C4D;
+}
+    
+    
+p {
+    font-family: 'Pavanam', sans-serif;
+    font-size:13pt;
+    line-height: 34px;
+    color:#333333;
+    margin-top: 17px;
+    margin-left: auto;
+    margin-right: auto;  
+    }
+
+video{
+    margin-top: -54px;
+}
+
+object{
+    margin-top: 34px;
+}
+
+.email {
+    text-decoration: underline;
+}
+
+footer{
+    margin-top: 34px;
+    
+}
